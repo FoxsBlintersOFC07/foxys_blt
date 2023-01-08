@@ -1,7 +1,7 @@
 # foxys_blt
 * Copie e cole no termux
 ```
-https://github.com/FoxsBlintersOFC07/foxys_blt;cd foxys_blt;bash install.sh
+git clone https://github.com/FoxsBlintersOFC07/foxys_blt;cd foxys_blt;bash install.sh
 ```
 ### Créditos
 Créditos á todos os nossos membros!
