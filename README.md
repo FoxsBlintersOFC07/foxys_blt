@@ -6,11 +6,11 @@ https://github.com/FoxsBlintersOFC07/foxys_blt;cd foxys_blt;bash install.sh
 ### Créditos
 Créditos á todos os nossos membros!
 
-* Nosso canal: [YouTube]()
+* Nosso canal: []()
 * Nosso Site: []()
-* Nosso grp do zap: [Whatsapp grup]()
+* Nosso Instagram: []()
 
 #### Contribuidores
 * Github do fox: [Git Hub]()
-* Github do Hiro: [Git Hub]()
+* Github do Hiro: [H1R0Z1N]()
 * Github do anonnimous [Git Hub]()
