@@ -17,7 +17,7 @@ a="$b\033[1;33m"
 a1="$b\033[33m"
 cy="$b\033[38;2;23;147;209m"
 pkg install figlet
-pkg install lolcat
+pip install lolcat
 banner1() {
 	clear
 	sleep 0.5
