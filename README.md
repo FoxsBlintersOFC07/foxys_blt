@@ -11,6 +11,4 @@ Créditos á todos os nossos membros!
 * Nosso Instagram: []()
 
 #### Contribuidores
-* Github do fox: []()
-* Github do Hiro: []()
-* Github do anonnimous: []()
+* Github do HIRO: **[H1R0Z1N](https://github.com/H1R0Z1N)**
