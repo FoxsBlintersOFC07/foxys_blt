@@ -1,4 +1,4 @@
-# foxys_blt
+# foxys_blt-
 * Copie e cole no termux
 ```
 git clone https://github.com/FoxsBlintersOFC07/foxys_blt;cd foxys_blt;bash install.sh
