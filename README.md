@@ -5,6 +5,8 @@
 <h3 align="center">CANAL DO YOUTUBE: <a href='https://www.youtube.com/channel/UCyHoD9nOO0Af6iJX_C7QCiQ?' target='_blank'>YouTube</a></h2>
 <h4 align="center">SITE: <a href='https://www.youtube.com/channel/UCyHoD9nOO0Af6iJX_C7QCiQ?' target='_blank'>SITE OFICIAL</a></h2>
 
+![](https://github.com/FoxsBlintersOFC07/foxys_blt/blob/main/matrix.gif)
+
 ##INSTALAÇÃO
 * Copie e cole no termux
 ```
