@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/FoxsBlintersOFC07/foxys_blt;cd foxys_blt;bash install.sh
 ```
-<h5 align="center">VIDEO: <a href='https://youtu.be/1C0YlG8fsiE' target='_blank'>TUTORIAL DE INSTALAÇÃO</a></h2>
+<h5 align="center">TUTORIAL DE INSTALAÇÃO: <a href='https://youtu.be/1C0YlG8fsiE' target='_blank'>LINK DO TUTORIAL</a></h2>
 ### Créditos
 Créditos á todos os nossos membros!
 
