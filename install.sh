@@ -78,6 +78,8 @@ banner1() {
       pip install openai
       pip install os
       pip install time
+      pip install subprocess.run
+      pip install urllib3
       echo -e "${v}smtplib Instalado com SUCESSO${b}"
       sleep 2
       clear
