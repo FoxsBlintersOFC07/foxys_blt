@@ -15,14 +15,14 @@ git clone https://github.com/FoxsBlintersOFC07/foxys_blt;cd foxys_blt;bash insta
 ## USO 🛠️
 Caso já tenha instalado o "Foxys_BLT", basta colocar os comandos abaixo para executar o script no terminal para executar o script.
 <h4> 1- Acesse a pasta da ferramenta </h4>
-  ```sh
+```sh
 cd foxys_blt 
 ```
 <h4> 2- Acesse a pasta de arquivos e execute o menu </h4>
-  ```sh
+```sh
 cd arquivos 
 ```
-   ```sh
+```sh
 python Foxy_Blinter.py
 ```
 
