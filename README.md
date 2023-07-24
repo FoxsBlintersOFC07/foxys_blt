@@ -16,5 +16,5 @@ git clone https://github.com/FoxsBlintersOFC07/foxys_blt;cd foxys_blt;bash insta
 O Foxys_BLT é uma ferramenta completa e poderosa para testes de invasão e segurança da informação. Com a nova atualização, o menu ficou ainda mais eficiente e fácil de usar, com uma inteligência artificial para auxiliar na escolha das ferramentas mais adequadas. Se você é um hacker ou pentester, não deixe de experimentar o Foxys_BLT.
 
 #### Contribuidores
-* Github do HIRO: **[H1R0Z1N](https://github.com/H1R0Z1N)**
+* Github do HIRO: @H1R0-K4M1 **[H1R0Z1N](https://github.com/H1R0Z1N)**
 * Github do FOX: **[FOX_WAYNNE](https://github.com/FoxWaynne)**
