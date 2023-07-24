@@ -84,7 +84,7 @@ banner1() {
       sleep 2
       clear
       banner1
-      chmod +x * Foxy_Blinter.py
+      chmod +x * main.py
       rm -rf arquivos.zip
       sleep 0.3
       printf "$A[$b1+$A]${b1} Finalizado..!\n"
