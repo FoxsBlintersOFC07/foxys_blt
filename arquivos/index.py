@@ -26,7 +26,15 @@ class foxy_hacking(object):
             self.escolha_main(int(self.num))
         except ValueError:
             self.escolha_main2(str(self.num))
+
+    #funcão pra deixar o banner responsável
     def banner(self):
+        if pt.system() == "Windows":self.bannerDesktop()
+        elif pt.system() == "Linux":self.bannerMobile()
+        else:self.bannerDesktop()
+
+    #banner para o mobile
+    def bannerMobile(self):
         limpar()
         print(f"""{p}░░▒ ▒░  ░░░░ ▒ ░░░▒ ░░▒  ░░░░░░░░▒ ░░▒ ▒▒▒░ ░░▒░  ░░░▒
 Versão {pt.system()} sendo executada...
@@ -40,6 +48,12 @@ Versão {pt.system()} sendo executada...
 {p}commands = AIbot/ai | painel/p | help/h
  {r} Inovação é nossa arma, conhecimento é nosso escudo! {c}
 {b}by:{g} press {b}[{w}100{b}]{g} to credit.""")
+
+    # Tela para pc
+    def bannerDesktop(seld):
+        limpar()
+        print("Banner Windows")
+
     def tabela(self):
         print(f"""
 {b}[{w}01{b}]{g} PHISHER
