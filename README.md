@@ -1,6 +1,6 @@
 # 🛠️FOXYS_BLT MENU 5.0☠️
 <p align="center">
-![Banner](arquivos/banner.png)
+<img src="arquivos/banner.png">
 </p>
 
 <h1 align="center">Introdução📋:</h1>
