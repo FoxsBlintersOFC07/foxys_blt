@@ -1,5 +1,7 @@
-![Banner](arquivos/banner.png)
 # 🛠️FOXYS_BLT MENU 5.0☠️
+<p align="center">
+  ![Banner](arquivos/banner.png)
+</p>
 
 <h1 align="center">Introdução📋:</h1>
 Bem-vindo ao Foxys_BLT, um menu completo com várias ferramentas para hackers e pentesters. Nesta atualização, implementamos uma inteligência artificial que conta com a rede neural da OpenAI, além de um sistema de consulta de dados como IP🌐, CPF🎩(temp. off), CNPJ📈, CEP🔍 e outros dados úteis para Obter informações algo, ou pessoas especificas e realizar testes de invasão com mais precisão.
