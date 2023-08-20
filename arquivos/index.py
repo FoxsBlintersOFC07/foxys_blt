@@ -41,7 +41,7 @@ Versão {pt.system()} sendo executada...
 {p}▒{var}█▀▀▀ {p}▒{var}█▀▀▀█ ▀▄{p}▒{var}▄▀ {p}▒{var}█{p}░░▒{var}█ {p}▒{var}█▀▀▀█ 　 {p}▒{var}█▀▀█ {p}▒{var}█{p}░░░ {var}▀▀█▀▀ 
 {p}▒{var}█▀▀▀ {p}▒{var}█{p}░░▒{var}█ {p}░▒{var}█{p}░░ ▒{var}█▄▄▄█ {p}░{var}▀▀▀▄▄ 　 {p}▒{var}█▀▀▄ {p}▒{var}█{p}░░░ ░▒{var}█{p}░░ 
 {p}▒{var}█{p}░░░ ▒{var}█▄▄▄█ ▄▀{p}▒{var}▀▄ {p}░░▒{var}█{p}░░ ▒{var}█▄▄▄█ 　 {p}▒{var}█▄▄█ {p}▒{var}█▄▄█ {p}░▒{var}█{p}░░ 
-                                                  {y}v6.0
+                                                  {y}v6.2
 {b}Python version {p}= {w}{pt.python_version()}
 {b}Plataforma {p}= {w}{pt.system()}
 {b}Maquina {p}= {w}{pt.machine()}
