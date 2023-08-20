@@ -23,6 +23,5 @@ class main(object):
         else:
             st("clear")
 
-
 if __name__ == '__main__':
     main()
